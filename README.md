@@ -19,7 +19,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me:
 - Passionate about **Data Science**, **Machine Learning**, and **Deep Learning**
 - Experienced with **Python, C#, Java**
 - Love building AI agent and analyzing data
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" alt="C#"/>
@@ -43,7 +43,7 @@
 
 ---
 
-### 📚 Python Libraries for DS/ML/DL
+### 📚 Python Libraries for DS/ML/DL:
 
 <p align="center">
 
@@ -61,11 +61,11 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects:
 - **[DeepLearning_ChessDetection](https://github.com/SunShine-chi/DeepLearning_ChessDetection)** – Deep Learning Project - Classification and Segmentation of Chess Pieces  
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/SunShine-chi">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=SunShine-chi&show_icons=true&theme=radical" alt="GitHub Stats"/>
